@@ -1,16 +1,21 @@
 .App {
-  /* text-align: center; */
-
-
+  display: flex;
 }
-/* background-image:url("./images/chalkboard.png");
-background-repeat: no-repeat;
-background-size:contain; */
 
-.drinkList {
-  /* margin: auto; */
+.background {
   position: absolute;
   width: 100%;
-  height: 110vh;
+  height: 100vh;
   z-index:-1;
+}
+
+.drinkList {
+  color: white;
+  position: absolute;
+  min-width: 100%;
+  margin-top: 25vh;
+}
+
+.drink {
+  text-align: center;
 }
