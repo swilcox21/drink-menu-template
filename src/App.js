@@ -11,7 +11,7 @@ function App() {
         <br/>
         <div>MAI TAI</div>
         <br/>
-        <div>MOJITO</div>
+        <div>MOJITO (please don't order)</div>
         <br/>
         <div>LEMON BASIL MARTINI</div>
     </div>
