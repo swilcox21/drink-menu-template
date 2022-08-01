@@ -12,7 +12,7 @@ function App() {
             <br/>
             <div className="drink">MAI TAI</div>
             <br/>
-            <div className="drink">MOJITO (please don't order)</div>
+            <div className="drink">MOJITO</div>
             <br/>
             <div className="drink">LEMON BASIL MARTINI</div>
       </div>
