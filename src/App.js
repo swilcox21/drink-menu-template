@@ -10,40 +10,15 @@ function App() {
             <br/>
             <h1 className="title">Cocktails</h1>
             <div className="drink">MARGARITA</div>
-            <ul className="drinkDescription">
-              <li className='topIngredient'>- tequila</li>
-              <li>- fresh squeeze lime juice</li>
-              <li>- agave nectar</li>
-              <li>- orange liqueur</li>
-            </ul>
+              <div className='description'>tequila, fresh squeeze lime juice, agave nectar & orange liqueur</div>
             <div className="drink">OLD FASHIONED</div>
-            <ul className="drinkDescription">
-              <li className='topIngredient'>- bourbon</li>
-              <li>- simple syrup</li>
-              <li>- orange / angustora bitters</li>
-            </ul>
+              <div className='description'>bourbon, simple syrup, orange & angustora bitters</div>
             <div className="drink">MAI TAI</div>
-            <ul className="drinkDescription">
-              <li className='topIngredient'>- light rum</li>
-              <li>- orange juice</li>
-              <li>- pineapple juice</li>
-              <li>- citrus splash</li>
-              <li>- grenadine</li>
-              <li>- dark rum float</li>
-            </ul>
+              <div className='description'>light rum, orange juice, pineapple juice, a splash of citrus & grenadine, topped with a dark rum float</div>
             <div className="drink">MOJITO</div>
-            <ul className="drinkDescription">
-              <li className='topIngredient'>- light rum</li>
-              <li>- muddled limes</li>
-              <li>- mint simple</li>
-              <li>- splash of soda </li>
-            </ul>
+              <div className='description'>light rum, muddled limes, mint simple& splash of soda</div>
             <div className="drink">LEMON BASIL MARTINI</div>
-            <ul className="drinkDescription">
-              <li className='topIngredient'>- vodka</li>
-              <li>- muddled lemons</li>
-              <li>- basil simple</li>
-            </ul>
+              <div className='description'>vodka, muddled lemons & basil simple, topped with soda</div>
       </div>
     </div>
   </>
