@@ -8,7 +8,6 @@ function App() {
       <div className="drinkList">
             <br/>
             <br/>
-
             <h1 className="title">Cocktails</h1>
             <div className="drink">MARGARITA</div>
             <ul className="drinkDescription">
